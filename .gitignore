@@ -2,6 +2,7 @@ data/
 *.ipynb_checkpoints
 *Zone.Identifier
 *.log
+*.model
 .credentials/
 
 # Byte-compiled / optimized / DLL files
